@@ -1,0 +1,19 @@
+.browse-section .card {
+    border: 1px solid black;
+    box-shadow: 1px 1px 5px black;
+}
+
+.browse-section .card-img-top {
+    width: 100%;
+    height: 12em;
+    object-fit: cover;
+}
+
+#footer-section .footer-bg {
+    color: white;
+    background: black;
+}
+
+#footer-section a {
+    color: #9BC291;
+}

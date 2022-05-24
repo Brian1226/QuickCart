@@ -1,0 +1,11 @@
+.container-fluid {
+    background: linear-gradient(0deg, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url('./img/safeway.jpeg');
+    background-size: cover;
+    height: 100vh;
+    color: white;
+}
+
+.row {
+    height: 100vh;
+}
+
